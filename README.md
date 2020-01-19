@@ -2,7 +2,7 @@
 # Erstes Buch
 # https://www.gutenberg.org/cache/epub/2407/pg2407.txt
 
-Am 4. Mai 1771
+Am 19. Jan 2020
 
 Wie froh bin ich, daß ich weg bin!  Bester Freund, was ist das Herz
 des Menschen!  Dich zu verlassen, den ich so liebe, von dem ich
